@@ -15,3 +15,4 @@
 2014-07-05T19:53:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
 2014-07-15T04:08:00 - Minor doc updates: linking to article on quantization (llm-playground)
 2014-07-15T21:48:00 - Implementing approach from a new paper read last night (llm-playground)
+2014-07-15T19:47:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
