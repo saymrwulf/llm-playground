@@ -18,3 +18,4 @@
 2014-07-15T19:47:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
 2014-07-15T21:59:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
 2014-09-14T18:19:00 - Implementing approach from a new paper read last night (llm-playground)
+2014-09-14T19:10:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
