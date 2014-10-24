@@ -19,3 +19,4 @@
 2014-07-15T21:59:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
 2014-09-14T18:19:00 - Implementing approach from a new paper read last night (llm-playground)
 2014-09-14T19:10:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
+2014-10-25T00:42:00 - Minor doc updates: linking to article on quantization (llm-playground)
