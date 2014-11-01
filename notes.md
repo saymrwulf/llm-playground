@@ -20,3 +20,4 @@
 2014-09-14T18:19:00 - Implementing approach from a new paper read last night (llm-playground)
 2014-09-14T19:10:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
 2014-10-25T00:42:00 - Minor doc updates: linking to article on quantization (llm-playground)
+2014-11-01T04:07:00 - Implementing approach from a new paper read last night (llm-playground)
