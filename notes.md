@@ -26,3 +26,4 @@
 2015-02-24T17:44:00 - Late-night bugfix on financial RL environment (llm-playground)
 2015-02-24T08:43:00 - Implementing approach from a new paper read last night (llm-playground)
 2015-02-24T08:43:00 - Minor doc updates: linking to article on quantization (llm-playground)
+2015-03-14T00:31:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
