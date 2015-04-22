@@ -34,3 +34,4 @@
 2015-03-21T20:33:00 - Late-night bugfix on financial RL environment (llm-playground)
 2015-03-21T21:47:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
 2015-03-21T02:00:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
+2015-04-22T19:31:00 - Late-night bugfix on financial RL environment (llm-playground)
