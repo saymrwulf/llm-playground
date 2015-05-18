@@ -44,3 +44,4 @@
 2015-05-11T05:23:00 - Minor doc updates: linking to article on quantization (llm-playground)
 2015-05-11T04:23:00 - Minor doc updates: linking to article on quantization (llm-playground)
 2015-05-18T07:07:00 - Late-night bugfix on financial RL environment (llm-playground)
+2015-05-18T04:32:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
