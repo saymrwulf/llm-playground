@@ -49,3 +49,4 @@
 2015-06-12T19:03:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (llm-playground)
 2015-06-12T01:08:00 - Refactor for clarity, might break a few tests though (llm-playground)
 2015-06-19T07:32:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
+2015-06-19T06:09:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
