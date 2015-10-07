@@ -58,3 +58,4 @@
 2015-10-04T08:00:00 - Minor doc updates: linking to article on quantization (llm-playground)
 2015-10-04T22:44:00 - Late-night bugfix on financial RL environment (llm-playground)
 2015-10-04T06:30:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
+2015-10-07T18:30:00 - Refactor for clarity, might break a few tests though (llm-playground)
