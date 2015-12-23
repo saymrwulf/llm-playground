@@ -72,3 +72,4 @@
 2015-12-06T05:16:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
 2015-12-06T23:48:00 - Refactor for clarity, might break a few tests though (llm-playground)
 2015-12-23T00:24:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
+2015-12-23T06:33:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
