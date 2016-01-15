@@ -82,3 +82,4 @@
 2016-01-11T05:13:00 - Implementing approach from a new paper read last night (llm-playground)
 2016-01-15T01:02:00 - Refactor for clarity, might break a few tests though (llm-playground)
 2016-01-15T18:00:00 - Minor doc updates: linking to article on quantization (llm-playground)
+2016-01-15T18:13:00 - Refactor for clarity, might break a few tests though (llm-playground)
