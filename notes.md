@@ -84,3 +84,4 @@
 2016-01-15T18:00:00 - Minor doc updates: linking to article on quantization (llm-playground)
 2016-01-15T18:13:00 - Refactor for clarity, might break a few tests though (llm-playground)
 2016-03-08T03:47:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
+2016-03-08T22:12:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
