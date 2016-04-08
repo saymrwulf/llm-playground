@@ -86,3 +86,4 @@
 2016-03-08T03:47:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
 2016-03-08T22:12:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
 2016-04-08T02:51:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (llm-playground)
+2016-04-08T04:41:00 - Minor doc updates: linking to article on quantization (llm-playground)
