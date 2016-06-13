@@ -89,3 +89,4 @@
 2016-04-08T04:41:00 - Minor doc updates: linking to article on quantization (llm-playground)
 2016-06-13T02:10:00 - Implementing approach from a new paper read last night (llm-playground)
 2016-06-13T21:11:00 - Refactor for clarity, might break a few tests though (llm-playground)
+2016-06-13T08:57:00 - Late-night bugfix on financial RL environment (llm-playground)
