@@ -91,3 +91,4 @@
 2016-06-13T21:11:00 - Refactor for clarity, might break a few tests though (llm-playground)
 2016-06-13T08:57:00 - Late-night bugfix on financial RL environment (llm-playground)
 2016-06-13T07:32:00 - Implementing approach from a new paper read last night (llm-playground)
+2016-06-30T08:28:00 - Refactor for clarity, might break a few tests though (llm-playground)
