@@ -93,3 +93,4 @@
 2016-06-13T07:32:00 - Implementing approach from a new paper read last night (llm-playground)
 2016-06-30T08:28:00 - Refactor for clarity, might break a few tests though (llm-playground)
 2016-06-30T23:16:00 - Late-night bugfix on financial RL environment (llm-playground)
+2016-12-21T00:03:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
