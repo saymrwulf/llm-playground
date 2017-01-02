@@ -96,3 +96,4 @@
 2016-12-21T00:03:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
 2016-12-21T23:47:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
 2016-12-21T23:27:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
+2017-01-02T08:02:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (llm-playground)
