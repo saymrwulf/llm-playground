@@ -100,3 +100,4 @@
 2017-01-02T23:31:00 - Minor doc updates: linking to article on quantization (llm-playground)
 2017-01-02T19:31:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
 2017-01-02T20:59:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
+2017-02-20T08:16:00 - Implementing approach from a new paper read last night (llm-playground)
