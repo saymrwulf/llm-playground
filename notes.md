@@ -102,3 +102,4 @@
 2017-01-02T20:59:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
 2017-02-20T08:16:00 - Implementing approach from a new paper read last night (llm-playground)
 2017-03-01T17:23:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
+2017-03-28T19:36:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
