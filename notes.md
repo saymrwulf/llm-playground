@@ -113,3 +113,4 @@
 2017-06-08T07:09:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
 2017-06-22T20:36:00 - Minor doc updates: linking to article on quantization (llm-playground)
 2017-06-22T02:42:00 - Refactor for clarity, might break a few tests though (llm-playground)
+2017-06-22T00:44:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (llm-playground)
