@@ -112,3 +112,4 @@
 2017-06-08T22:05:00 - Late-night bugfix on financial RL environment (llm-playground)
 2017-06-08T07:09:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
 2017-06-22T20:36:00 - Minor doc updates: linking to article on quantization (llm-playground)
+2017-06-22T02:42:00 - Refactor for clarity, might break a few tests though (llm-playground)
