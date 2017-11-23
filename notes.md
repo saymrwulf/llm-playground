@@ -122,3 +122,4 @@
 2017-10-11T20:36:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (llm-playground)
 2017-10-11T23:56:00 - Implementing approach from a new paper read last night (llm-playground)
 2017-11-23T03:42:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
+2017-11-23T05:13:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
