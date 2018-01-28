@@ -126,3 +126,4 @@
 2017-11-23T23:17:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
 2018-01-03T21:21:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
 2018-01-03T19:24:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
+2018-01-28T23:48:00 - Late-night bugfix on financial RL environment (llm-playground)
