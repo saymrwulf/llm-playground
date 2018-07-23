@@ -131,3 +131,4 @@
 2018-02-27T23:20:00 - Late-night bugfix on financial RL environment (llm-playground)
 2018-04-21T21:02:00 - Implementing approach from a new paper read last night (llm-playground)
 2018-07-23T19:57:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
+2018-07-23T08:00:00 - Minor doc updates: linking to article on quantization (llm-playground)
