@@ -137,3 +137,4 @@
 2018-07-29T17:57:00 - Refactor for clarity, might break a few tests though (llm-playground)
 2018-07-29T07:08:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
 2018-08-04T03:29:00 - Late-night bugfix on financial RL environment (llm-playground)
+2018-08-04T00:00:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
