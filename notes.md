@@ -140,3 +140,4 @@
 2018-08-04T00:00:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
 2018-08-11T07:41:00 - Late-night bugfix on financial RL environment (llm-playground)
 2018-08-19T17:41:00 - Implementing approach from a new paper read last night (llm-playground)
+2018-08-19T04:26:00 - Minor doc updates: linking to article on quantization (llm-playground)
