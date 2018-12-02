@@ -143,3 +143,4 @@
 2018-08-19T04:26:00 - Minor doc updates: linking to article on quantization (llm-playground)
 2018-10-29T00:41:00 - Late-night bugfix on financial RL environment (llm-playground)
 2018-12-02T04:41:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (llm-playground)
+2018-12-02T17:26:00 - Minor doc updates: linking to article on quantization (llm-playground)
