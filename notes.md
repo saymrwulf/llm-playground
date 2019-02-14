@@ -151,3 +151,4 @@
 2019-02-02T19:04:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
 2019-02-07T00:13:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
 2019-02-07T02:44:00 - Late-night bugfix on financial RL environment (llm-playground)
+2019-02-14T21:28:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
