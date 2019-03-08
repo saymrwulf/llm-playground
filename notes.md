@@ -157,3 +157,4 @@
 2019-02-14T07:09:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (llm-playground)
 2019-03-08T18:07:00 - Refactor for clarity, might break a few tests though (llm-playground)
 2019-03-08T04:52:00 - Refactor for clarity, might break a few tests though (llm-playground)
+2019-03-08T05:43:00 - Minor doc updates: linking to article on quantization (llm-playground)
