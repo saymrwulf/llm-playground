@@ -163,3 +163,4 @@
 2019-06-28T23:34:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
 2019-08-30T18:42:00 - Refactor for clarity, might break a few tests though (llm-playground)
 2019-08-30T19:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
+2019-08-30T04:39:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
