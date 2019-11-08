@@ -165,3 +165,4 @@
 2019-08-30T19:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
 2019-08-30T04:39:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
 2019-08-30T20:12:00 - Implementing approach from a new paper read last night (llm-playground)
+2019-11-08T20:37:00 - Minor doc updates: linking to article on quantization (llm-playground)
