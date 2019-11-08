@@ -167,3 +167,4 @@
 2019-08-30T20:12:00 - Implementing approach from a new paper read last night (llm-playground)
 2019-11-08T20:37:00 - Minor doc updates: linking to article on quantization (llm-playground)
 2019-11-08T00:04:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (llm-playground)
+2019-11-08T22:58:00 - Implementing approach from a new paper read last night (llm-playground)
