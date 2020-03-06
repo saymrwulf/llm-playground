@@ -171,3 +171,4 @@
 2020-02-18T18:38:00 - Late-night bugfix on financial RL environment (llm-playground)
 2020-02-18T02:37:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
 2020-02-18T17:29:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
+2020-03-07T00:40:00 - Late-night bugfix on financial RL environment (llm-playground)
