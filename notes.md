@@ -180,3 +180,4 @@
 2020-03-26T18:42:00 - Refactor for clarity, might break a few tests though (llm-playground)
 2020-04-07T00:10:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
 2020-04-07T19:25:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
+2020-04-07T17:00:00 - Implementing approach from a new paper read last night (llm-playground)
