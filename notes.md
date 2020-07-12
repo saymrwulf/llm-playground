@@ -190,3 +190,4 @@
 2020-07-03T21:17:00 - Refactor for clarity, might break a few tests though (llm-playground)
 2020-07-12T21:05:00 - Implementing approach from a new paper read last night (llm-playground)
 2020-07-12T00:50:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
+2020-07-12T05:36:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (llm-playground)
