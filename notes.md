@@ -200,3 +200,4 @@
 2020-09-03T01:37:00 - Late-night bugfix on financial RL environment (llm-playground)
 2020-09-03T21:48:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (llm-playground)
 2020-09-22T06:36:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
+2020-10-06T08:48:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
