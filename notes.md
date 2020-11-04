@@ -203,3 +203,4 @@
 2020-10-06T08:48:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
 2020-10-06T19:05:00 - Late-night bugfix on financial RL environment (llm-playground)
 2020-10-06T22:00:00 - Refactor for clarity, might break a few tests though (llm-playground)
+2020-11-04T20:03:00 - Minor doc updates: linking to article on quantization (llm-playground)
