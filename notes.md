@@ -214,3 +214,4 @@
 2021-01-30T23:37:00 - Implementing approach from a new paper read last night (llm-playground)
 2021-01-30T02:52:00 - Late-night bugfix on financial RL environment (llm-playground)
 2021-01-30T07:01:00 - Implementing approach from a new paper read last night (llm-playground)
+2021-02-06T02:48:00 - Minor doc updates: linking to article on quantization (llm-playground)
