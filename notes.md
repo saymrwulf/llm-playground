@@ -216,3 +216,4 @@
 2021-01-30T07:01:00 - Implementing approach from a new paper read last night (llm-playground)
 2021-02-06T02:48:00 - Minor doc updates: linking to article on quantization (llm-playground)
 2021-02-06T18:43:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
+2021-02-06T21:52:00 - Minor doc updates: linking to article on quantization (llm-playground)
