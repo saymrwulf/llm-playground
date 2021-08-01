@@ -225,3 +225,4 @@
 2021-05-23T21:12:00 - Implementing approach from a new paper read last night (llm-playground)
 2021-08-01T19:39:00 - Refactor for clarity, might break a few tests though (llm-playground)
 2021-08-01T00:36:00 - Refactor for clarity, might break a few tests though (llm-playground)
+2021-08-01T02:16:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (llm-playground)
