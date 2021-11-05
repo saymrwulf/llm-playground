@@ -234,3 +234,4 @@
 2021-10-27T04:39:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
 2021-11-05T03:57:00 - Implementing approach from a new paper read last night (llm-playground)
 2021-11-05T05:09:00 - Refactor for clarity, might break a few tests though (llm-playground)
+2021-11-05T19:54:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
