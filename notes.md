@@ -253,3 +253,4 @@
 2022-01-13T08:25:00 - Refactor for clarity, might break a few tests though (llm-playground)
 2022-01-15T00:48:00 - Minor doc updates: linking to article on quantization (llm-playground)
 2022-01-21T20:19:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (llm-playground)
+2022-01-21T19:09:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
