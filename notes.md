@@ -263,3 +263,4 @@
 2022-04-03T23:53:00 - Minor doc updates: linking to article on quantization (llm-playground)
 2022-04-03T05:34:00 - Minor doc updates: linking to article on quantization (llm-playground)
 2022-04-03T03:01:00 - Minor doc updates: linking to article on quantization (llm-playground)
+2022-05-03T19:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
