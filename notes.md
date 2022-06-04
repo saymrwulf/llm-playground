@@ -268,3 +268,4 @@
 2022-06-04T00:52:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
 2022-06-04T07:56:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (llm-playground)
 2022-06-04T03:39:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
+2022-06-04T02:46:00 - Minor doc updates: linking to article on quantization (llm-playground)
