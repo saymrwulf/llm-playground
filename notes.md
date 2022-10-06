@@ -283,3 +283,4 @@
 2022-10-06T23:24:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
 2022-10-06T17:36:00 - Implementing approach from a new paper read last night (llm-playground)
 2022-10-06T08:58:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
+2022-10-06T18:46:00 - Minor doc updates: linking to article on quantization (llm-playground)
