@@ -280,3 +280,4 @@
 2022-09-16T06:53:00 - Late-night bugfix on financial RL environment (llm-playground)
 2022-09-21T21:58:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
 2022-09-21T08:05:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
+2022-10-06T23:24:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
