@@ -287,3 +287,4 @@
 2022-11-22T19:12:00 - Late-night bugfix on financial RL environment (llm-playground)
 2022-11-22T04:35:00 - Minor doc updates: linking to article on quantization (llm-playground)
 2022-11-22T01:33:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
+2022-11-22T20:49:00 - Implementing approach from a new paper read last night (llm-playground)
