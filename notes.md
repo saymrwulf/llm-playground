@@ -289,3 +289,4 @@
 2022-11-22T01:33:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (llm-playground)
 2022-11-22T20:49:00 - Implementing approach from a new paper read last night (llm-playground)
 2023-01-16T19:13:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
+2023-01-16T23:35:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
