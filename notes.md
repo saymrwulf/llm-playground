@@ -313,3 +313,4 @@
 2023-10-10T17:05:00 - Refactor for clarity, might break a few tests though (llm-playground)
 2023-10-10T19:17:00 - Minor doc updates: linking to article on quantization (llm-playground)
 2023-11-21T02:54:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
+2023-11-21T03:35:00 - Implementing approach from a new paper read last night (llm-playground)
