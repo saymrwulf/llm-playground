@@ -328,3 +328,4 @@
 2023-12-21T05:40:00 - Quick fix, referencing a known issue from the official repo (llm-playground)
 2023-12-21T20:42:00 - Refactor for clarity, might break a few tests though (llm-playground)
 2023-12-25T18:37:00 - Late-night bugfix on financial RL environment (llm-playground)
+2023-12-25T17:55:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
