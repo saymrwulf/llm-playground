@@ -339,3 +339,4 @@
 2024-01-10T08:42:00 - Minor doc updates: linking to article on quantization (llm-playground)
 2024-01-10T19:55:00 - Minor doc updates: linking to article on quantization (llm-playground)
 2024-01-10T01:19:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (llm-playground)
+2024-01-10T04:11:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (llm-playground)
