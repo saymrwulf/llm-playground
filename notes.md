@@ -352,3 +352,4 @@
 2024-04-14T00:16:00 - Implementing approach from a new paper read last night (llm-playground)
 2024-04-14T18:55:00 - Implementing approach from a new paper read last night (llm-playground)
 2024-05-07T05:11:00 - Refactor for clarity, might break a few tests though (llm-playground)
+2024-08-03T23:45:00 - Minor doc updates: linking to article on quantization (llm-playground)
